@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CovidApp.Certificates">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABCAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Certificates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CovidApp.ConnectionString">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ConnectionString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CovidApp.Users">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACCAAAACAABAAAQQAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
